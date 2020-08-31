@@ -1,0 +1,50 @@
+body {
+	background-color: #EEEEEE;
+	font-family: 'Roboto', sans-serif;
+}
+/******HEADER******/
+#header-nav {
+	background-color: #B92938;
+	border: 0;
+	border-radius: 0;
+}
+.navbar-header {
+	padding-bottom: 25px;
+}
+.navbar-brand h1 {
+	color: #FFFFFF;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+#collapsable-nav {
+	background-color: #B92938;
+}
+#nav-list a {
+	text-align: center;
+	color: white;
+	font-size: 1.6em;
+}
+#nav-list a:hover {
+	background-color: #FF5733;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #61122F;
+}
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -40px;
+}
+#content {
+	background-color: #A3A3A3;
+	opacity: .9;
+	margin: 15px auto 50px;
+}
+#content h3 {
+	text-align: center;
+}
+/******END HEADER******/
